@@ -56,7 +56,7 @@
             <div class="queue-container mt-5">
 
                  <div class="mt-4">
-                    <h2 class="text-center mb-3">Semua Antrian</h2>
+                    <h2 class="text-center mb-3">Semua Antrian Hari Ini</h2>
                     <div class="card">
                         <div class="card-body">
                             <table class="table text-center">
